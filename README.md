@@ -41,6 +41,7 @@ while trial < 5:
         continue
 
 print('\n')
+
 print('you missed it!')
 
 print("oh sorry you run out of guesses")
