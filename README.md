@@ -1,4 +1,5 @@
 import random
+
 randomNumber = random.randint(1,10)
 
 print('guess a number between 1 and 10')
@@ -43,6 +44,7 @@ print('\n')
 print('you missed it!')
 
 print("oh sorry you run out of guesses")
+
 print(' The number that i was thinking is : ', randomNumber)
 
 
