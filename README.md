@@ -1,7 +1,3 @@
-# numbergame-
-#Number game app
-
-
 import random
 randomNumber = random.randint(1,10)
 
@@ -53,7 +49,6 @@ print(' The number that i was thinking is : ', randomNumber)
 
 
 
-# print('that is the number')
 
 
 
