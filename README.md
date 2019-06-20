@@ -1,5 +1,5 @@
 # numbergame-
-Number game app
+#Number game app
 
 
 import random
@@ -38,7 +38,7 @@ while trial < 5:
         elif guess < randomNumber:
             print('please try greater number!')
 
-        # else:
+       
     except ValueError:
         print(" It's not Valid, Please try again, it has to be an integer!")
         continue
